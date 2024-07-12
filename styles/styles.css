@@ -1,0 +1,291 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-grid {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lora;
+    src: url(/assets/fonts/Lora-Regular.ttf);
+}
+
+@font-face {
+    font-family: Inconsolata;
+    src: url(/assets/fonts/Inconsolata_Condensed-Regular.ttf);
+}
+
+body {
+    background-color: white;
+    color: black;
+    font-family: Inter;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.hidden {
+    display: none;
+}
+
+.Drop {
+    position: relative;
+}
+
+#arrow-dropdown:hover {
+    cursor: pointer;
+}
+
+#font-options {
+    position: absolute;
+    top: 80%;
+    left: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    list-style: none;
+    text-align: center;
+    width: 100px;
+}
+
+#font-options li {
+    cursor: pointer;
+}
+
+#font-options li:hover {
+    background-color: #f0f0f0;
+}
+
+.header_style {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 100px;
+    width: 100%;
+}
+
+.header_style section {
+    display: flex;
+    width: 35%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_style section div {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#button-active {
+    display: none;
+}
+
+#button-desactive {
+    display: block;
+}
+
+#moon-active {
+    display: none;
+}
+
+#moon-desactive {
+    display: block;
+}
+
+.input {
+    width: 100%;
+}
+
+.input input {
+    background-color: #e0dfdf;
+    border-radius: 16px;
+    width: 736px;
+    height: 64px;
+    border: none;
+    outline: none;
+    padding-left: 20px;
+}
+
+.input img {
+    position: relative;
+    right: 50px;
+    top: 5px;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.content article {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.content_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content_title h1 {
+    font-size: 44px;
+    font-weight: bolder;
+}
+
+.content_title p {
+    color: #A445ED;
+    position: relative;
+    right: 427px;
+    top: 40px;
+}
+
+.content_description1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+}
+
+.content_description1 h2 {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.content_description1 h3 {
+    color: #757575;
+    font-weight: lighter;
+}
+
+.content_description1 ul {
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: justify;
+    width: 90%;
+}
+
+.content_description1 li::marker {
+    color: #A445ED;
+}
+
+.content_description1 p {
+    color: #757575;
+    font-weight: lighter;
+}
+
+.content_description1 span {
+    color: #A445ED;
+    font-weight: bolder;
+}
+
+.content_description2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+}
+
+.content_description2 h2 {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.content_description2 h3 {
+    color: #757575;
+    font-weight: lighter;
+}
+
+.content_description2 ul {
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: justify;
+    width: 90%;
+}
+
+.content_description2 li::marker {
+    color: #A445ED;
+}
+
+.content_description2 p {
+    color: #757575;
+    font-weight: lighter;
+}
+
+footer {
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+footer p {
+    color: #757575;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    font-weight: lighter;
+}
+
+footer a {
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+}
+
+body.dark-mode footer p {
+    color: #757575;
+}
+
+body.dark-mode footer a {
+    color: white;
+}
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.header_style.dark-mode {
+    background-color: #000000;
+}
+
+.dark-mode .header_style section h1 {
+    color: white;
+}
+
+.dark-mode .input input {
+    background-color: #444;
+    color: white;
+}
+
+.dark-mode #font-options {
+    background-color: #757575;
+}
+
+.dark-mode #font-options li:hover {
+    background-color: #181818;
+}
+
+.error {
+    border: 2px solid red;
+}
+
+.texto-erro{
+    color: red
+}

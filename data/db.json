@@ -1,0 +1,613 @@
+{
+    "palavras": [
+      {
+        "palavra": "Keyboard",
+        "pronuncia": "/ˈkiːbɔːd/",
+        "tipo": "substantivo",
+        "significado": [
+          "A set of keys used to operate a typewriter, computer, etc.",
+          "A component of many instruments including the piano, organ, and harpsichord consisting of usually black and white keys that cause different tones to be produced when struck.",
+          "A device with keys of a musical keyboard, used to control electronic sound-producing devices which may be built into or separate from the keyboard device."
+        ],
+        "sinonimos": ["electronic keyboard"],
+        "verbo": {
+          "significado": [
+            "To type on a computer keyboard."
+          ],
+          "exemplo": "“Keyboarding is the part of this job I hate the most.”"
+        }
+      },
+      {
+        "palavra": "Book",
+        "pronuncia": "/bʊk/",
+        "tipo": "substantivo",
+        "significado": [
+          "A set of written or printed pages, usually bound with a protective cover.",
+          "A written work or composition that has been published (printed on pages bound together)."
+        ],
+        "sinonimos": ["volume", "publication"],
+        "verbo": {
+          "significado": [
+            "To arrange for someone to have a seat on a plane, a room in a hotel, etc."
+          ],
+          "exemplo": "“I need to book a flight to New York.”"
+        }
+      },
+      {
+        "palavra": "Sun",
+        "pronuncia": "/sʌn/",
+        "tipo": "substantivo",
+        "significado": [
+          "The star around which the Earth orbits.",
+          "The light or warmth received from the earth's sun."
+        ],
+        "sinonimos": ["star", "daystar"],
+        "verbo": {
+          "significado": [
+            "To sit or lie in the sun, especially to tan."
+          ],
+          "exemplo": "“She likes to sun herself on the beach.”"
+        }
+      },
+      {
+        "palavra": "Tree",
+        "pronuncia": "/triː/",
+        "tipo": "substantivo",
+        "significado": [
+          "A woody perennial plant, typically having a single stem or trunk and bearing lateral branches."
+        ],
+        "sinonimos": ["plant", "wood"],
+        "verbo": {
+          "significado": [
+            "To force someone or something up a tree."
+          ],
+          "exemplo": "“The dog treed the cat.”"
+        }
+      },
+      {
+        "palavra": "River",
+        "pronuncia": "/ˈrɪvər/",
+        "tipo": "substantivo",
+        "significado": [
+          "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream."
+        ],
+        "sinonimos": ["stream", "watercourse"],
+        "verbo": null
+      },
+      {
+        "palavra": "Mountain",
+        "pronuncia": "/ˈmaʊntən/",
+        "tipo": "substantivo",
+        "significado": [
+          "A large natural elevation of the earth's surface rising abruptly from the surrounding level."
+        ],
+        "sinonimos": ["peak", "summit"],
+        "verbo": null
+      },
+      {
+        "palavra": "Car",
+        "pronuncia": "/kɑːr/",
+        "tipo": "substantivo",
+        "significado": [
+          "A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor."
+        ],
+        "sinonimos": ["automobile", "vehicle"],
+        "verbo": null
+      },
+      {
+        "palavra": "Ocean",
+        "pronuncia": "/ˈoʊʃən/",
+        "tipo": "substantivo",
+        "significado": [
+          "A very large expanse of sea."
+        ],
+        "sinonimos": ["sea", "body of water"],
+        "verbo": null
+      },
+      {
+        "palavra": "Forest",
+        "pronuncia": "/ˈfɔːrɪst/",
+        "tipo": "substantivo",
+        "significado": [
+          "A large area covered chiefly with trees and undergrowth."
+        ],
+        "sinonimos": ["woodland", "jungle"],
+        "verbo": null
+      },
+      {
+        "palavra": "City",
+        "pronuncia": "/ˈsɪti/",
+        "tipo": "substantivo",
+        "significado": [
+          "A large town."
+        ],
+        "sinonimos": ["metropolis", "urban area"],
+        "verbo": null
+      },
+      {
+        "palavra": "House",
+        "pronuncia": "/haʊs/",
+        "tipo": "substantivo",
+        "significado": [
+          "A building for human habitation, especially one that is lived in by a family or small group of people."
+        ],
+        "sinonimos": ["home", "residence"],
+        "verbo": {
+          "significado": [
+            "To provide space for; contain or accommodate."
+          ],
+          "exemplo": "“The library houses a collection of rare books.”"
+        }
+      },
+      {
+        "palavra": "Dog",
+        "pronuncia": "/dɔːɡ/",
+        "tipo": "substantivo",
+        "significado": [
+          "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice."
+        ],
+        "sinonimos": ["canine", "puppy"],
+        "verbo": {
+          "significado": [
+            "To follow (someone or their movements) closely and persistently."
+          ],
+          "exemplo": "“Photographers seemed to dog her every step.”"
+        }
+      },
+      {
+        "palavra": "Cat",
+        "pronuncia": "/kæt/",
+        "tipo": "substantivo",
+        "significado": [
+          "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws. It is widely kept as a pet or for catching mice."
+        ],
+        "sinonimos": ["feline", "kitten"],
+        "verbo": null
+      },
+      {
+        "palavra": "Bird",
+        "pronuncia": "/bɜːrd/",
+        "tipo": "substantivo",
+        "significado": [
+          "A warm-blooded egg-laying vertebrate animal distinguished by the possession of feathers, wings, a beak, and (typically) by being able to fly."
+        ],
+        "sinonimos": ["avian", "fowl"],
+        "verbo": null
+      },
+      {
+        "palavra": "Computer",
+        "pronuncia": "/kəmˈpjuːtər/",
+        "tipo": "substantivo",
+        "significado": [
+          "An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program."
+        ],
+        "sinonimos": ["PC", "machine"],
+        "verbo": null
+      },
+      {
+        "palavra": "Phone",
+        "pronuncia": "/foʊn/",
+        "tipo": "substantivo",
+        "significado": [
+          "A system that uses wires and radio signals to send sounds (such as people's voices) over long distances."
+        ],
+        "sinonimos": ["telephone", "cell"],
+        "verbo": {
+          "significado": [
+            "To call someone on the telephone."
+          ],
+          "exemplo": "“She phoned her friend to tell her the news.”"
+        }
+      },
+      {
+        "palavra": "Book",
+        "pronuncia": "/bʊk/",
+        "tipo": "substantivo",
+        "significado": [
+          "A set of written or printed pages, usually bound with a protective cover.",
+          "A written work or composition that has been published (printed on pages bound together)."
+        ],
+        "sinonimos": ["volume", "publication"],
+        "verbo": {
+          "significado": [
+            "To arrange for someone to have a seat on a plane, a room in a hotel, etc."
+          ],
+          "exemplo": "“I need to book a flight to New York.”"
+        }
+      },
+      {
+        "palavra": "Desk",
+        "pronuncia": "/dɛsk/",
+        "tipo": "substantivo",
+        "significado": [
+          "A piece of furniture with a flat or sloped surface and typically with drawers, at which one can read, write, or do other work."
+        ],
+        "sinonimos": ["table", "workstation"],
+        "verbo": null
+      },
+      {
+        "palavra": "Pen",
+        "pronuncia": "/pɛn/",
+        "tipo": "substantivo",
+        "significado": [
+          "An instrument for writing or drawing with ink."
+        ],
+        "sinonimos": ["writing implement", "ballpoint"],
+        "verbo": {
+          "significado": [
+            "To write or compose."
+          ],
+          "exemplo": "“She penned a letter to her friend.”"
+        }
+      },
+      {
+        "palavra": "Bottle",
+        "pronuncia": "/ˈbɑːtl/",
+        "tipo": "substantivo",
+        "significado": [
+          "A container, typically made of glass or plastic and with a narrow neck, used for storing drinks or other liquids."
+        ],
+        "sinonimos": ["flask", "jug"],
+        "verbo": {
+          "significado": [
+            "To put (a liquid) into bottles."
+          ],
+          "exemplo": "“The wine is bottled at the vineyard.”"
+        }
+      },
+      {
+        "palavra": "Table",
+        "pronuncia": "/ˈteɪbl/",
+        "tipo": "substantivo",
+        "significado": [
+          "A piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed."
+        ],
+        "sinonimos": ["counter", "desk"],
+        "verbo": {
+          "significado": [
+            "To postpone consideration of."
+          ],
+          "exemplo": "“The proposal was tabled for discussion at a later date.”"
+        }
+      },
+      {
+        "palavra": "Chair",
+        "pronuncia": "/tʃɛər/",
+        "tipo": "substantivo",
+        "significado": [
+          "A separate seat for one person, typically with a back and four legs."
+        ],
+        "sinonimos": ["seat", "stool"],
+        "verbo": {
+          "significado": [
+            "To act as the chairperson of or preside over (an organization, meeting, or public event)."
+          ],
+          "exemplo": "“She chaired the meeting successfully.”"
+        }
+      },
+      {
+        "palavra": "Window",
+        "pronuncia": "/ˈwɪndoʊ/",
+        "tipo": "substantivo",
+        "significado": [
+          "An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out."
+        ],
+        "sinonimos": ["pane", "casement"],
+        "verbo": null
+      },
+      {
+        "palavra": "Door",
+        "pronuncia": "/dɔːr/",
+        "tipo": "substantivo",
+        "significado": [
+          "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard."
+        ],
+        "sinonimos": ["entryway", "portal"],
+        "verbo": null
+      },
+      {
+        "palavra": "Garden",
+        "pronuncia": "/ˈɡɑːrdən/",
+        "tipo": "substantivo",
+        "significado": [
+          "A piece of ground, often near a house, used for growing flowers, fruit, or vegetables."
+        ],
+        "sinonimos": ["yard", "park"],
+        "verbo": {
+          "significado": [
+            "To take care of or work in a garden."
+          ],
+          "exemplo": "“She enjoys gardening on weekends.”"
+        }
+      },
+      {
+        "palavra": "Road",
+        "pronuncia": "/roʊd/",
+        "tipo": "substantivo",
+        "significado": [
+          "A wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use."
+        ],
+        "sinonimos": ["street", "highway"],
+        "verbo": null
+      },
+      {
+        "palavra": "Bridge",
+        "pronuncia": "/brɪdʒ/",
+        "tipo": "substantivo",
+        "significado": [
+          "A structure carrying a road, path, railway, etc. across a river, road, or other obstacle."
+        ],
+        "sinonimos": ["overpass", "viaduct"],
+        "verbo": {
+          "significado": [
+            "To make (a difference between two groups) smaller or less significant."
+          ],
+          "exemplo": "“Efforts are being made to bridge the gap between the rich and poor.”"
+        }
+      },
+      {
+        "palavra": "School",
+        "pronuncia": "/skuːl/",
+        "tipo": "substantivo",
+        "significado": [
+          "An institution for educating children."
+        ],
+        "sinonimos": ["academy", "institution"],
+        "verbo": {
+          "significado": [
+            "To educate or train (someone, especially a child)."
+          ],
+          "exemplo": "“She was schooled in France.”"
+        }
+      }, {
+        "palavra": "Wind",
+        "pronuncia": "/wɪnd/",
+        "tipo": "substantivo",
+        "significado": [
+          "The perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction."
+        ],
+        "sinonimos": ["breeze", "gust"],
+        "verbo": {
+          "significado": [
+            "To move in or take a twisting or spiral course."
+          ],
+          "exemplo": "“The river winds through the valley.”"
+        }
+      },
+      {
+        "palavra": "Earth",
+        "pronuncia": "/ɜːrθ/",
+        "tipo": "substantivo",
+        "significado": [
+          "The planet on which we live; the world."
+        ],
+        "sinonimos": ["world", "globe"],
+        "verbo": null
+      },
+      {
+        "palavra": "Moon",
+        "pronuncia": "/muːn/",
+        "tipo": "substantivo",
+        "significado": [
+          "The natural satellite of the Earth, visible (chiefly at night) by reflected light from the sun."
+        ],
+        "sinonimos": ["satellite", "lunar"],
+        "verbo": {
+          "significado": [
+            "To behave or move in a listless and aimless manner."
+          ],
+          "exemplo": "“She was mooning around the house all day.”"
+        }
+      },
+      {
+        "palavra": "Star",
+        "pronuncia": "/stɑːr/",
+        "tipo": "substantivo",
+        "significado": [
+          "A fixed luminous point in the night sky which is a large, remote incandescent body like the sun."
+        ],
+        "sinonimos": ["celestial body", "luminary"],
+        "verbo": {
+          "significado": [
+            "To feature or play a leading role in a film, play, etc."
+          ],
+          "exemplo": "“She starred in the new movie.”"
+        }
+      },
+      {
+        "palavra": "Planet",
+        "pronuncia": "/ˈplænɪt/",
+        "tipo": "substantivo",
+        "significado": [
+          "A celestial body moving in an elliptical orbit around a star."
+        ],
+        "sinonimos": ["world", "sphere"],
+        "verbo": null
+      },
+      {
+        "palavra": "Rock",
+        "pronuncia": "/rɑːk/",
+        "tipo": "substantivo",
+        "significado": [
+          "The solid mineral material forming part of the surface of the earth and other similar planets, exposed on the surface or underlying the soil or oceans."
+        ],
+        "sinonimos": ["stone", "boulder"],
+        "verbo": {
+          "significado": [
+            "To move gently to and fro or from side to side."
+          ],
+          "exemplo": "“She rocked the baby to sleep.”"
+        }
+      },
+      {
+        "palavra": "Sand",
+        "pronuncia": "/sænd/",
+        "tipo": "substantivo",
+        "significado": [
+          "A loose granular substance, typically pale yellowish brown, resulting from the erosion of siliceous and other rocks and forming a major constituent of beaches, riverbeds, the seabed, and deserts."
+        ],
+        "sinonimos": ["grains", "grit"],
+        "verbo": {
+          "significado": [
+            "To smooth or polish with sandpaper or a mechanical sander."
+          ],
+          "exemplo": "“He sanded the wooden floor.”"
+        }
+      },
+      {
+        "palavra": "Volcano",
+        "pronuncia": "/vɒlˈkeɪnoʊ/",
+        "tipo": "substantivo",
+        "significado": [
+          "A mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapor, and gas are or have been erupted from the earth's crust."
+        ],
+        "sinonimos": ["mountain", "vent"],
+        "verbo": null
+      },
+      {
+        "palavra": "Island",
+        "pronuncia": "/ˈaɪlənd/",
+        "tipo": "substantivo",
+        "significado": [
+          "A piece of land surrounded by water."
+        ],
+        "sinonimos": ["isle", "atoll"],
+        "verbo": null
+      },
+      {
+        "palavra": "Wave",
+        "pronuncia": "/weɪv/",
+        "tipo": "substantivo",
+        "significado": [
+          "A long body of water curling into an arched form and breaking on the shore."
+        ],
+        "sinonimos": ["swell", "breaker"],
+        "verbo": {
+          "significado": [
+            "To move one's hand to and fro in greeting or as a signal."
+          ],
+          "exemplo": "“She waved to her friend across the street.”"
+        }
+      },
+      {
+        "palavra": "Flower",
+        "pronuncia": "/ˈflaʊər/",
+        "tipo": "substantivo",
+        "significado": [
+          "The seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) that are typically surrounded by a brightly colored corolla (petals) and a green calyx (sepals)."
+        ],
+        "sinonimos": ["blossom", "bloom"],
+        "verbo": {
+          "significado": [
+            "To bloom or come into flower."
+          ],
+          "exemplo": "“The plant flowers in early spring.”"
+        }
+      },
+      {
+        "palavra": "Grass",
+        "pronuncia": "/ɡræs/",
+        "tipo": "substantivo",
+        "significado": [
+          "Vegetation consisting of typically short plants with long, narrow leaves, growing wild or cultivated on lawns and pasture, and as a fodder crop."
+        ],
+        "sinonimos": ["lawn", "turf"],
+        "verbo": {
+          "significado": [
+            "To cover with grass."
+          ],
+          "exemplo": "“The field was grassed over.”"
+        }
+      },
+      {
+        "palavra": "Rain",
+        "pronuncia": "/reɪn/",
+        "tipo": "substantivo",
+        "significado": [
+          "Moisture condensed from the atmosphere that falls visibly in separate drops."
+        ],
+        "sinonimos": ["precipitation", "drizzle"],
+        "verbo": {
+          "significado": [
+            "To fall as rain."
+          ],
+          "exemplo": "“It began to rain heavily.”"
+        }
+      },
+      {
+        "palavra": "Cloud",
+        "pronuncia": "/klaʊd/",
+        "tipo": "substantivo",
+        "significado": [
+          "A visible mass of condensed watery vapor floating in the atmosphere, typically high above the ground."
+        ],
+        "sinonimos": ["vapor", "mist"],
+        "verbo": {
+          "significado": [
+            "To make or become less clear or transparent."
+          ],
+          "exemplo": "“Her eyes clouded with tears.”"
+        }
+      },
+      {
+        "palavra": "Snow",
+        "pronuncia": "/snoʊ/",
+        "tipo": "substantivo",
+        "significado": [
+          "Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer."
+        ],
+        "sinonimos": ["flakes", "frost"],
+        "verbo": {
+          "significado": [
+            "To fall as snow."
+          ],
+          "exemplo": "“It began to snow heavily.”"
+        }
+      },
+      {
+        "palavra": "Ice",
+        "pronuncia": "/aɪs/",
+        "tipo": "substantivo",
+        "significado": [
+          "Frozen water, a brittle, transparent crystalline solid."
+        ],
+        "sinonimos": ["frost", "glaze"],
+        "verbo": {
+          "significado": [
+            "To cover with or change into ice."
+          ],
+          "exemplo": "“The windshield was iced over.”"
+        }
+      },
+      {
+        "palavra": "Sky",
+        "pronuncia": "/skaɪ/",
+        "tipo": "substantivo",
+        "significado": [
+          "The region of the atmosphere and outer space seen from the earth."
+        ],
+        "sinonimos": ["heavens", "firmament"],
+        "verbo": {
+          "significado": [
+            "To hit or throw (something) high up into the air."
+          ],
+          "exemplo": "“He skied the ball over the fence.”"
+        }
+      },
+      {
+        "palavra": "Star",
+        "pronuncia": "/stɑːr/",
+        "tipo": "substantivo",
+        "significado": [
+          "A fixed luminous point in the night sky which is a large, remote incandescent body like the sun."
+        ],
+        "sinonimos": ["celestial body", "luminary"],
+        "verbo": {
+          "significado": [
+            "To feature or play a leading role in a film, play, etc."]
+          }}
+      
+    ]
+    
+  }
+  

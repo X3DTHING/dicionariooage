@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dicionario Web</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <script defer src="scripts/script.js"></script>
+</head>
+<body>
+    <header class="container-grid">
+        <nav class="header_style container-grid">
+            <img src="assets/icons/icon-book.svg" alt="">
+            <section>
+                <div class="Drop">
+                    <h1 id="current-font">Inter</h1>
+                    <img id="arrow-dropdown" src="assets/icons/icon-arrow-down.svg" alt="">
+                    <ul id="font-options" class="hidden">
+                        <li data-font="Inter">Inter</li>
+                        <li data-font="Lora">Lora</li>
+                        <li data-font="Inconsolata">Inconsolata</li>
+                    </ul>   
+                </div>
+                <div class="Theme">
+                    <img id="button-desactive" src="assets/icons/icon-desactive.svg" alt="Desactive Theme">
+                    <img id="button-active" src="assets/icons/icon-active.svg" alt="Active Theme">
+                    <img id="moon-desactive" src="assets/icons/icon-moon.svg" alt="Moon Icon">
+                    <img id="moon-active" src="assets/icons/iconoir_half-moon.svg" alt="Moon Icon Purple">
+                </div>
+            </section>  
+        </nav>
+        <div class="input container-grid">
+            <input type="text" id="search-input" placeholder="Digite uma palavra">
+            <img id="icon-search" src="assets/icons/icon-search.svg" alt="">
+        </div>
+    </header>
+    <main id="main-content">
+        <p id="error-message" class="hidden">NÃO ENCONTRADO, TENTE NOVAMENTE</p>
+    </main>
+    <footer class="container-grid">
+        <p> Source <span><a href="https://dictionary.cambridge.org/en/">https://dictionary.cambridge.org/en/</a></span></p>
+    </footer>
+</body>
+</html>
+``
